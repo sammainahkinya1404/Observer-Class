@@ -1,0 +1,5 @@
+# id, name, add:st1, add:st2, add:city, add:state, add:zip, charges (e.g. daily rate)
+W,Lot W,E Jewell Ave,,Denver,CO,80210,5
+108,Lot 108,E Buchtel Ave,,Denver,CO,80210,2
+321,Lot 321,S Gaylord St,,Denver,CO,80210,8
+301,Lot 301,E Evans Ave,,Denver,CO,80210,8
